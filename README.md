@@ -33,7 +33,7 @@ VIDEO_DATASET = [
 ```
 
 
-### Step 3: Download dataset
+### Step 3: Download Dataset
 Download the datase from [huggingface](https://huggingface.co/datasets/daisq/MM-UAVBench) and put it in `~/MM-UAVBench/data`. 
 
 Set the dataset path in `~/MM-UAVBench/VLMEvalKit/.env`：
